@@ -1,4 +1,7 @@
 ### Hi there 👋
+I do code. I do read.
+
+⚡ Fun fact: I'm not fun at parties.
 
 <!--
 **kitavimo/kitavimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
