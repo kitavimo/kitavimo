@@ -1,5 +1,5 @@
 ### Hi there 👋
-I do code. I do read.
+I do code. I do read. I do write.(Are good readers good writers?🤷🏾‍♂️)
 
 ⚡ Fun fact: I'm not fun at parties.
 
