@@ -1,7 +1,7 @@
 ### Hi there 👋
 I do code. I do read. I do write.(Are good readers good writers?🤷🏾‍♂️)
 
-⚡ Fun fact: I'm not fun at parties.
+
 
 <!--
 **kitavimo/kitavimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+⚡ Fun fact: I'm not fun at parties.
 -->
