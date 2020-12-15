@@ -1,13 +1,7 @@
 ### Hi there 👋
 I do code. I do read. I do write.
 
-<div align="center">
-<iframe src="https://giphy.com/embed/PiQejEf31116URju4V" width="480" height="288" frameBorder="0" class="giphy-embed" allow>
-  </iframe>
-  <p>
-    <a href="https://giphy.com/gifs/memecandy-PiQejEf31116URju4V">via GIPHY</a>
-  </p>
-</div>
+
 
 
 <!--
